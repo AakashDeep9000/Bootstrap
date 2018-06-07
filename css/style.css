@@ -57,21 +57,14 @@
 			padding-top: 15%;
 		}
 
-		header{
-			background: #ffcc99 ;
-	    /* position: fixed;
-		width: 100%;
-		top: 0;
-		overflow: hidden; */
-	}
-	#searchInput{
-		width: 200px;
-	}
+		#searchInput{
+			width: 200px;
+		}
 
 
-	.main{
-		margin-top: 50px;
-	}
+		.main{
+			margin-top: 50px;
+		}
 /*.main{
 	background: red;
 	}*/
